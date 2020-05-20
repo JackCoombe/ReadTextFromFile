@@ -45,6 +45,7 @@ namespace ReadTextFromFile
         {
             confirmation.Text = "Task complete? Or is it?";
             userInput.Text = "";
+            // NO u CHANGING FOR GITHUN
         }
 
     }
